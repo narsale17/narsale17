@@ -32,22 +32,6 @@
 - [**Potato Leaf Disease Detection**](https://github.com/narsale17/Potato-Leaf-Disease-Detection):  
   CNN model developed using TensorFlow to detect diseases in potato leaves with 99.12% accuracy on a Kaggle dataset.
 
-## Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/aditya-narsale/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/narsale._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:adinarsale@gmail.com" target="_blank">
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/adinarsale/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
 ## Languages and Tools
 <p>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -91,5 +75,21 @@
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" alt="IntelliJ IDEA" width="50" height="50"/>
+  </a>
+</p>
+
+## Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/aditya-narsale/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/narsale._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="mailto:adinarsale@gmail.com" target="_blank">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/adinarsale/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
