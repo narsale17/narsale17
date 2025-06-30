@@ -33,20 +33,18 @@
   CNN model developed using TensorFlow to detect diseases in potato leaves with 99.12% accuracy on a Kaggle dataset.
 
 <h3 align="center">Connect with Me</h3>
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/aditya-narsale/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/narsale._/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="mailto:adinarsale@gmail.com" target="_blank">
-    <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://github.com/narsale17" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a><a href="https://www.instagram.com/narsale._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a><a href="mailto:adinarsale@gmail.com" target="_blank">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email" height="30" width="40" />
+  </a><a href="https://github.com/narsale17" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+
 
 
 
