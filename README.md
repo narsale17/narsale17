@@ -32,11 +32,22 @@
 - [**Potato Leaf Disease Detection**](https://github.com/narsale17/Potato-Leaf-Disease-Detection):  
   CNN model developed using TensorFlow to detect diseases in potato leaves with 99.12% accuracy on a Kaggle dataset.
 
-## Contact
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="mailto:adinarsale@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-narsale/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/narsale17" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/narsale._/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
-- Email: adinarsale@gmail.com  
-- LinkedIn: [linkedin.com/in/aditya-narsale](https://www.linkedin.com/in/aditya-narsale)  
-- GitHub: [github.com/narsale17](https://github.com/narsale17)
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
