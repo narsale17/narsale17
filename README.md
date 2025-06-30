@@ -32,21 +32,22 @@
 - [**Potato Leaf Disease Detection**](https://github.com/narsale17/Potato-Leaf-Disease-Detection):  
   CNN model developed using TensorFlow to detect diseases in potato leaves with 99.12% accuracy on a Kaggle dataset.
 
-<h3 align="center">Contact Me</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
-  <a href="mailto:adinarsale@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/aditya-narsale/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-narsale/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.instagram.com/narsale._/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://github.com/narsale17" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <a href="mailto:adinarsale@gmail.com" target="_blank">
+    <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Gmail.svg" alt="Email" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/narsale._/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  <a href="https://github.com/narsale17" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
+
 
 
 <h3 align="center">Languages and Tools</h3>
