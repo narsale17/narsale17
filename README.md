@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Aditya Narsale</h1>
 
-## About Me
-
 - Final-year Computer Science Engineering student at Vishwakarma Institute of Technology, Pune.
 - Passionate about cloud infrastructure, cybersecurity, and building AI-powered applications.
 - Strong experience with Google Cloud services, machine learning models, and secure system design.
 - Interested in solving real-world problems through scalable and efficient software.
 - Actively involved in college technical and cultural events, including sponsorship and volunteering roles.
 - Football enthusiast and part of the college football team with state-level tournament experience.
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000px"/>
 
 ## Technical Skills
 
@@ -18,18 +18,22 @@
 - **Software Development**: Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Git, GitHub  
 - **ML/DL Tools & Frameworks**: TensorFlow, PyTorch, OpenCV
 
-## Selected Projects
+## Projects
 
-- [**Cloud Setup Assistant**](https://github.com/narsale17/Cloud-Setup-Assistant):  
+- [**Secure Image Retrieval on Google Cloud (Internship @ IIIT Nagpur)**](https://github.com/narsale17/CBIR-using-Markov-BoW-Models):  
+  Developed a privacy-preserving image retrieval system using Bag of Encrypted Words (BOEW) and Local Markov Models. 
+  Enabled secure image retrieval without exposing raw image data, ensuring both privacy and efficiency.
+
+- [**Cloud Setup Assistant**](https://github.com/narsale17/Cloud-Setup-AI-Assistant):  
   A generative AI-powered chatbot that translates user prompts into CLI commands and provides GUI-based guidance for setting up cloud services on GCP.
 
-- [**Privacy-Preserving CBIR System**](https://github.com/narsale17/Privacy-Preserving-CBIR):  
+- [**Privacy-Preserving CBIR System**](https://github.com/narsale17/CBIR-using-Hybrid-Encryption):  
   A content-based image retrieval model using hybrid encryption techniques (AES, CKKS) for secure image search without exposing raw data.
 
-- [**Operating System in Java**](https://github.com/narsale17/Java-OS-Simulation):  
+- [**Operating System in Java**](https://github.com/narsale17/Operating-System-Simulation-in-Java):  
   A 3-phase simulation of an operating system featuring memory management, CPU scheduling, paging, and interrupt handling.
 
-- [**Smart Aquarium IoT + Cloud**](https://github.com/narsale17/Smart-Aquarium-IoT):  
+- [**Smart Aquarium IoT + Cloud**]:  
   Real-time water quality monitoring system using sensors and cloud integration for smart aquarium automation.
 
 - [**Tournament Scheduler**](https://github.com/narsale17/Tournament-Scheduler):  
