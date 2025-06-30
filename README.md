@@ -23,7 +23,7 @@
 - [**Operating System in Java**](https://github.com/narsale17/Operating-System-Simulation-in-Java):  
   A 3-phase simulation of an operating system featuring memory management, CPU scheduling, paging, and interrupt handling.
 
-- [**Smart Aquarium IoT + Cloud**]:  
+- **Smart Aquarium IoT + Cloud**:  
   Real-time water quality monitoring system using sensors and cloud integration for smart aquarium automation.
 
 - [**Tournament Scheduler**](https://github.com/narsale17/Tournament-Scheduler):  
