@@ -20,7 +20,7 @@
 - [**Privacy-Preserving CBIR System**](https://github.com/narsale17/CBIR-using-Hybrid-Encryption):  
   A content-based image retrieval model using hybrid encryption techniques (AES, CKKS) for secure image search without exposing raw data.
 
-- [**Operating System in Java**](https://github.com/narsale17/Operating-System-Simulation-in-Java):  
+- [**Operating System in Java**](https://github.com/narsale17/Operating-System-Simulation-Java):  
   A 3-phase simulation of an operating system featuring memory management, CPU scheduling, paging, and interrupt handling.
 
 - **Smart Aquarium IoT + Cloud**:  
